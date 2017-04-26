@@ -1,0 +1,8 @@
+rust-sdl2-template.iml
+SDL2.dll
+
+target
+.idea
+
+gnu-mingw/**
+msvc/**
